@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nhtc1929
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Coding programm
 - 🌱 I’m currently learning Embedded coding
 - 💞️ I’m looking to collaborate on system developing.
 - 📫 How to reach me nhat.phamc1929@hcmut.edu.vn
